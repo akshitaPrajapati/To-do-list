@@ -78,13 +78,6 @@ function check(){
 	}
 }
 
-function clear()
-{   
-   document.getElementById("body").reset();
-}
-
-
-
 //for (var v = 0 ; v < todos.length ; v++){
 //    new item(todos[v]);
 //}
